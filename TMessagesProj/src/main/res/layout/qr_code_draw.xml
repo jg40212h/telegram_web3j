@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical" android:layout_width="250dp"
+    android:layout_height="250dp">
+
+    <ImageView
+        android:id="@+id/QR_code_draw"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:src="@android:drawable/ic_delete" />
+
+    <TextView
+        android:id="@+id/your_account"
+        android:layout_width="220dp"
+        android:layout_height="wrap_content"
+        android:textColor="@android:color/black"
+        android:textIsSelectable="true"
+        android:gravity="center_horizontal"
+        android:text="error" />
+</LinearLayout>

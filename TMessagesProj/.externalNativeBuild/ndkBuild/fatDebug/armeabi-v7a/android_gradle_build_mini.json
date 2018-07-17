@@ -1,0 +1,47 @@
+{
+  "buildFiles": [
+    "C:\\Users\\WangGG\\Desktop\\Telegram_test\\TMessagesProj\\jni\\Android.mk",
+    "C:\\Users\\WangGG\\Desktop\\Telegram_test\\TMessagesProj\\jni\\Application.mk"
+  ],
+  "cleanCommands": [
+    "C:\\Users\\WangGG\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dC:\\Users\\WangGG\\Desktop\\Telegram_test\\TMessagesProj\\jni\\Android.mk NDK_APPLICATION_MK\u003dC:\\Users\\WangGG\\Desktop\\Telegram_test\\TMessagesProj\\jni\\Application.mk APP_ABI\u003darmeabi-v7a NDK_ALL_ABIS\u003darmeabi-v7a NDK_DEBUG\u003d1 APP_PLATFORM\u003dandroid-16 NDK_OUT\u003dC:/Users/WangGG/Desktop/Telegram_test/TMessagesProj/build/intermediates/ndkBuild/fat/debug/obj NDK_LIBS_OUT\u003dC:\\Users\\WangGG\\Desktop\\Telegram_test\\TMessagesProj\\build\\intermediates\\ndkBuild\\fat\\debug\\lib NDK_APPLICATION_MK:\u003djni/Application.mk APP_PLATFORM:\u003dandroid-14 clean"
+  ],
+  "libraries": {
+    "tmessages.27-fatDebug-armeabi-v7a": {
+      "artifactName": "tmessages.27",
+      "buildCommand": "C:\\Users\\WangGG\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dC:\\Users\\WangGG\\Desktop\\Telegram_test\\TMessagesProj\\jni\\Android.mk NDK_APPLICATION_MK\u003dC:\\Users\\WangGG\\Desktop\\Telegram_test\\TMessagesProj\\jni\\Application.mk APP_ABI\u003darmeabi-v7a NDK_ALL_ABIS\u003darmeabi-v7a NDK_DEBUG\u003d1 APP_PLATFORM\u003dandroid-16 NDK_OUT\u003dC:/Users/WangGG/Desktop/Telegram_test/TMessagesProj/build/intermediates/ndkBuild/fat/debug/obj NDK_LIBS_OUT\u003dC:\\Users\\WangGG\\Desktop\\Telegram_test\\TMessagesProj\\build\\intermediates\\ndkBuild\\fat\\debug\\lib NDK_APPLICATION_MK:\u003djni/Application.mk APP_PLATFORM:\u003dandroid-14 C:/Users/WangGG/Desktop/Telegram_test/TMessagesProj/build/intermediates/ndkBuild/fat/debug/obj/local/armeabi-v7a/libtmessages.27.so",
+      "abi": "armeabi-v7a",
+      "output": "C:\\Users\\WangGG\\Desktop\\Telegram_test\\TMessagesProj\\build\\intermediates\\ndkBuild\\fat\\debug\\obj\\local\\armeabi-v7a\\libtmessages.27.so"
+    },
+    "sqlite-fatDebug-armeabi-v7a": {
+      "artifactName": "sqlite",
+      "buildCommand": "C:\\Users\\WangGG\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dC:\\Users\\WangGG\\Desktop\\Telegram_test\\TMessagesProj\\jni\\Android.mk NDK_APPLICATION_MK\u003dC:\\Users\\WangGG\\Desktop\\Telegram_test\\TMessagesProj\\jni\\Application.mk APP_ABI\u003darmeabi-v7a NDK_ALL_ABIS\u003darmeabi-v7a NDK_DEBUG\u003d1 APP_PLATFORM\u003dandroid-16 NDK_OUT\u003dC:/Users/WangGG/Desktop/Telegram_test/TMessagesProj/build/intermediates/ndkBuild/fat/debug/obj NDK_LIBS_OUT\u003dC:\\Users\\WangGG\\Desktop\\Telegram_test\\TMessagesProj\\build\\intermediates\\ndkBuild\\fat\\debug\\lib NDK_APPLICATION_MK:\u003djni/Application.mk APP_PLATFORM:\u003dandroid-14 C:/Users/WangGG/Desktop/Telegram_test/TMessagesProj/build/intermediates/ndkBuild/fat/debug/obj/local/armeabi-v7a/libsqlite.a",
+      "abi": "armeabi-v7a",
+      "output": "C:\\Users\\WangGG\\Desktop\\Telegram_test\\TMessagesProj\\build\\intermediates\\ndkBuild\\fat\\debug\\obj\\local\\armeabi-v7a\\libsqlite.a"
+    },
+    "tgnet-fatDebug-armeabi-v7a": {
+      "artifactName": "tgnet",
+      "buildCommand": "C:\\Users\\WangGG\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dC:\\Users\\WangGG\\Desktop\\Telegram_test\\TMessagesProj\\jni\\Android.mk NDK_APPLICATION_MK\u003dC:\\Users\\WangGG\\Desktop\\Telegram_test\\TMessagesProj\\jni\\Application.mk APP_ABI\u003darmeabi-v7a NDK_ALL_ABIS\u003darmeabi-v7a NDK_DEBUG\u003d1 APP_PLATFORM\u003dandroid-16 NDK_OUT\u003dC:/Users/WangGG/Desktop/Telegram_test/TMessagesProj/build/intermediates/ndkBuild/fat/debug/obj NDK_LIBS_OUT\u003dC:\\Users\\WangGG\\Desktop\\Telegram_test\\TMessagesProj\\build\\intermediates\\ndkBuild\\fat\\debug\\lib NDK_APPLICATION_MK:\u003djni/Application.mk APP_PLATFORM:\u003dandroid-14 C:/Users/WangGG/Desktop/Telegram_test/TMessagesProj/build/intermediates/ndkBuild/fat/debug/obj/local/armeabi-v7a/libtgnet.a",
+      "abi": "armeabi-v7a",
+      "output": "C:\\Users\\WangGG\\Desktop\\Telegram_test\\TMessagesProj\\build\\intermediates\\ndkBuild\\fat\\debug\\obj\\local\\armeabi-v7a\\libtgnet.a"
+    },
+    "cpufeatures-fatDebug-armeabi-v7a": {
+      "artifactName": "cpufeatures",
+      "buildCommand": "C:\\Users\\WangGG\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dC:\\Users\\WangGG\\Desktop\\Telegram_test\\TMessagesProj\\jni\\Android.mk NDK_APPLICATION_MK\u003dC:\\Users\\WangGG\\Desktop\\Telegram_test\\TMessagesProj\\jni\\Application.mk APP_ABI\u003darmeabi-v7a NDK_ALL_ABIS\u003darmeabi-v7a NDK_DEBUG\u003d1 APP_PLATFORM\u003dandroid-16 NDK_OUT\u003dC:/Users/WangGG/Desktop/Telegram_test/TMessagesProj/build/intermediates/ndkBuild/fat/debug/obj NDK_LIBS_OUT\u003dC:\\Users\\WangGG\\Desktop\\Telegram_test\\TMessagesProj\\build\\intermediates\\ndkBuild\\fat\\debug\\lib NDK_APPLICATION_MK:\u003djni/Application.mk APP_PLATFORM:\u003dandroid-14 C:/Users/WangGG/Desktop/Telegram_test/TMessagesProj/build/intermediates/ndkBuild/fat/debug/obj/local/armeabi-v7a/libcpufeatures.a",
+      "abi": "armeabi-v7a",
+      "output": "C:\\Users\\WangGG\\Desktop\\Telegram_test\\TMessagesProj\\build\\intermediates\\ndkBuild\\fat\\debug\\obj\\local\\armeabi-v7a\\libcpufeatures.a"
+    },
+    "voip-fatDebug-armeabi-v7a": {
+      "artifactName": "voip",
+      "buildCommand": "C:\\Users\\WangGG\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dC:\\Users\\WangGG\\Desktop\\Telegram_test\\TMessagesProj\\jni\\Android.mk NDK_APPLICATION_MK\u003dC:\\Users\\WangGG\\Desktop\\Telegram_test\\TMessagesProj\\jni\\Application.mk APP_ABI\u003darmeabi-v7a NDK_ALL_ABIS\u003darmeabi-v7a NDK_DEBUG\u003d1 APP_PLATFORM\u003dandroid-16 NDK_OUT\u003dC:/Users/WangGG/Desktop/Telegram_test/TMessagesProj/build/intermediates/ndkBuild/fat/debug/obj NDK_LIBS_OUT\u003dC:\\Users\\WangGG\\Desktop\\Telegram_test\\TMessagesProj\\build\\intermediates\\ndkBuild\\fat\\debug\\lib NDK_APPLICATION_MK:\u003djni/Application.mk APP_PLATFORM:\u003dandroid-14 C:/Users/WangGG/Desktop/Telegram_test/TMessagesProj/build/intermediates/ndkBuild/fat/debug/obj/local/armeabi-v7a/libvoip.a",
+      "abi": "armeabi-v7a",
+      "output": "C:\\Users\\WangGG\\Desktop\\Telegram_test\\TMessagesProj\\build\\intermediates\\ndkBuild\\fat\\debug\\obj\\local\\armeabi-v7a\\libvoip.a"
+    },
+    "webp-fatDebug-armeabi-v7a": {
+      "artifactName": "webp",
+      "buildCommand": "C:\\Users\\WangGG\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dC:\\Users\\WangGG\\Desktop\\Telegram_test\\TMessagesProj\\jni\\Android.mk NDK_APPLICATION_MK\u003dC:\\Users\\WangGG\\Desktop\\Telegram_test\\TMessagesProj\\jni\\Application.mk APP_ABI\u003darmeabi-v7a NDK_ALL_ABIS\u003darmeabi-v7a NDK_DEBUG\u003d1 APP_PLATFORM\u003dandroid-16 NDK_OUT\u003dC:/Users/WangGG/Desktop/Telegram_test/TMessagesProj/build/intermediates/ndkBuild/fat/debug/obj NDK_LIBS_OUT\u003dC:\\Users\\WangGG\\Desktop\\Telegram_test\\TMessagesProj\\build\\intermediates\\ndkBuild\\fat\\debug\\lib NDK_APPLICATION_MK:\u003djni/Application.mk APP_PLATFORM:\u003dandroid-14 C:/Users/WangGG/Desktop/Telegram_test/TMessagesProj/build/intermediates/ndkBuild/fat/debug/obj/local/armeabi-v7a/libwebp.a",
+      "abi": "armeabi-v7a",
+      "output": "C:\\Users\\WangGG\\Desktop\\Telegram_test\\TMessagesProj\\build\\intermediates\\ndkBuild\\fat\\debug\\obj\\local\\armeabi-v7a\\libwebp.a"
+    }
+  }
+}

@@ -1,0 +1,143 @@
+{
+  "project_info": {
+    "project_number": "297966588372",
+    "firebase_url": "https://message-and-transaction.firebaseio.com",
+    "project_id": "message-and-transaction",
+    "storage_bucket": "message-and-transaction.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:297966588372:android:f6afd7b67eae3860",
+        "android_client_info": {
+          "package_name": "org.telegram.messenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "297966588372-i00e4rmm5tfunlqpanajbr7q72ujft22.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.telegram.messenger",
+            "certificate_hash": "fcd4b2fda765b6a8c0263f57b10d19f5d84c3b53"
+          }
+        },
+        {
+          "client_id": "297966588372-ok0c1p11h0003pi01ur0l8l8cpc0tt4e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBD87QnPMo5iIT08GQCXdjT4D2amBGpLSw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "297966588372-ok0c1p11h0003pi01ur0l8l8cpc0tt4e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:297966588372:android:dc022572c167a16c",
+        "android_client_info": {
+          "package_name": "org.telegram.messenger.beta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "297966588372-6tc66b1i1e1p0lgu4ct9l2jurfhnebal.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.telegram.messenger.beta",
+            "certificate_hash": "fcd4b2fda765b6a8c0263f57b10d19f5d84c3b53"
+          }
+        },
+        {
+          "client_id": "297966588372-ok0c1p11h0003pi01ur0l8l8cpc0tt4e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBD87QnPMo5iIT08GQCXdjT4D2amBGpLSw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "297966588372-ok0c1p11h0003pi01ur0l8l8cpc0tt4e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:297966588372:android:af8170fa7b9011b6",
+        "android_client_info": {
+          "package_name": "org.telegram.messenger.debug"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "297966588372-1cs27dk5m6mckv0bbogstqg4i1sc49ft.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.telegram.messenger.debug",
+            "certificate_hash": "fcd4b2fda765b6a8c0263f57b10d19f5d84c3b53"
+          }
+        },
+        {
+          "client_id": "297966588372-ok0c1p11h0003pi01ur0l8l8cpc0tt4e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBD87QnPMo5iIT08GQCXdjT4D2amBGpLSw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "297966588372-ok0c1p11h0003pi01ur0l8l8cpc0tt4e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
